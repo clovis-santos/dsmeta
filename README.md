@@ -1,6 +1,4 @@
-@@ -0,0 +1,43 @@
-
-# !Semana Spring React
+# Semana Spring React
 >  *App desenvolvido na Semana Spring React promovida pela [DevSuperior - Escola de programação](https://devsuperior.com.br)*
 
 ## Ferramentas usadas
